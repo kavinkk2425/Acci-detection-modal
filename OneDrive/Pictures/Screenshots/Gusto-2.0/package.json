@@ -1,0 +1,10 @@
+{
+  "name": "gusto-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix gusto-26-2.0 run dev",
+    "build": "npm --prefix gusto-26-2.0 run build",
+    "start": "npm --prefix gusto-26-2.0 run start",
+    "lint": "npm --prefix gusto-26-2.0 run lint"
+  }
+}
